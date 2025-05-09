@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+devquote/__init__.py
+devquote/ai.py
+devquote/cli.py
+devquote/core.py
+devquote.egg-info/PKG-INFO
+devquote.egg-info/SOURCES.txt
+devquote.egg-info/dependency_links.txt
+devquote.egg-info/entry_points.txt
+devquote.egg-info/top_level.txt
+tests/test_core.py

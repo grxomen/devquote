@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: devquote
+Version: 0.1.0
+Summary: A CLI tool to get dev quotes with optional AI support
+Author-email: Your Name <your@email.com>
+License-Expression: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# devquote
+A simple CLI tool and Python package to get developer quotes.

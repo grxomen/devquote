@@ -1,0 +1,14 @@
+{
+    "motivation": [
+        "Programs must be written for people to read, and only incidentally for machines to execute. \u2013 Harold Abelson",
+        "First, solve the problem. Then, write the code. \u2013 John Johnson"
+    ],
+    "debug": [
+        "If debugging is the process of removing software bugs, then programming must be the process of putting them in. \u2013 Edsger Dijkstra",
+        "It works on my machine. \u2013 Every developer"
+    ],
+    "tip": [
+        "Use virtual environments for every Python project.",
+        "Always write tests for critical parts of your code."
+    ]
+}
